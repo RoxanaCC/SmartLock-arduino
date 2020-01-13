@@ -4,7 +4,7 @@ This project represents a locking sistem, it uses bluetooth to send a password t
 
 ## Diagram
 
-![Screenshot](Shema.png)
+![Screenshot](Schema.png)
 
 ## Requirements
 
